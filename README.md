@@ -36,7 +36,6 @@ Der Datensatz umfasst unter anderem:
 - Beschäftigtenquote von Männern  
 - regionale Kennziffern (z. B. Regierungsbezirke)  
 - Bezugsjahr: **2022**
-Zudem wurden auch noch Daten aus dem **Statistischen Bundesamt** verwendet.
 
 ---
 
@@ -45,7 +44,7 @@ Zudem wurden auch noch Daten aus dem **Statistischen Bundesamt** verwendet.
 Das Projekt enthält verschiedene Arten von Visualisierungen, darunter:
 
 - Balkendiagramme zum Vergleich der Teilzeitquoten von Frauen und Männern  
-- regionale Vergleiche (z. B. innerhalb Nordbayerns und im vergleich zu Südbayern)
+- regionale Vergleiche (z. B. innerhalb Nordbayerns und im Vergleich zu Südbayern)
 - gruppierte und gestapelte Diagramme für geschlechtsspezifische Analysen  
 
 Alle Visualisierungen dienen der **vergleichenden regionalen Analyse**.
