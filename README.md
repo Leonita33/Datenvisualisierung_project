@@ -26,8 +26,9 @@ Der Fokus liegt auf einer **deskriptiven und visuellen Analyse**, nicht auf kaus
 
 Die in diesem Projekt verwendeten Daten stammen aus:
 
-**INKAR – Indikatoren und Karten zur Raum- und Stadtentwicklung**  
-bereitgestellt vom **Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR)**.
+- **INKAR – Indikatoren und Karten zur Raum- und Stadtentwicklung**  
+bereitgestellt vom **Bundesinstitut für Bau-, Stadt-** und Raumforschung (BBSR)**.
+- Zudem wurden Daten aus dem **Statistischen Bundesamt** verwendet.
 
 Der Datensatz umfasst unter anderem:
 - Teilzeitbeschäftigungsquoten von Frauen  
